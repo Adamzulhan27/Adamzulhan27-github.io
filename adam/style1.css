@@ -121,7 +121,7 @@ table {
 	}
 	.beranda{
 	width: 400px;
-	margin: 15px 15px ;
+	margin: 100px 15px 35px 15px;
 	color: limegreen;
 	font-size: 36px;
 	line-height: 36px;
@@ -140,10 +140,12 @@ table {
 	.hero {
 		padding: 5px;
 		float: none;
+		margin-bottom: 40px;
+		margin: 56px 45px 20px 45px ;
 	}
 	.hero img{
-	margin-bottom: 380px;
-	margin: 56px 45px 380px 45px ;
+	margin-bottom: 80px;
+	margin: 56px 45px 20px 45px ;
 
 	}
 
@@ -191,7 +193,6 @@ table {
 	}
 	.hero img{
 		margin-bottom: 100px;
-
 	}
 
 
